@@ -1,6 +1,6 @@
 
 <div align="center">
-  <div><img src="https://komarev.com/ghpvc/?username=rnadyjade&color=89CFF0&style=flat&label=🦴+pawprints+on+my+page　" alt="profile views" style="max-width:100%;"><div></div>
+  <div><img src="https://komarev.com/ghpvc/?username=randyjade&color=89CFF0&style=flat&label=🦴+pawprints+on+my+page　" alt="profile views" style="max-width:100%;"><div></div>
 </div>
 
 
